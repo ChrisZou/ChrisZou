@@ -12,4 +12,4 @@
 ## 目前Focus在
 抖音杭州部门很缺人，需要招大量的Android客户端开发同学。欢迎大家投简历，或私聊详情，在不泄密的情况下，我知无不言。
 
-<img src="https://raw.githubusercontent.com/ChrisZou/ChrisZou/master/my_wechat_qrcode.jpg" alt="" style="width:200px;"/>
+![](https://image4blogs.oss-cn-shanghai.aliyuncs.com/my_wechat_qrcode.jpg)
